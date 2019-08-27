@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is CC2E-E74F
+
+ Directory of C:\Users\Lenovo\Desktop\MyPojectGit
+
+08/27/2019  09:34 AM    <DIR>          .
+08/27/2019  09:34 AM    <DIR>          ..
+08/27/2019  09:34 AM                 0 a.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  120,494,342,144 bytes free
